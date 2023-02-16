@@ -4,4 +4,4 @@ from django.http import HttpResponse
 def f1(manu):
     return HttpResponse('<h1> HELLO USER GOOD AFTERNOON***</H1><HR/><BR/>')
 def f2(manu):
-    return HttpResponse('<h2> NAMASTE GURUGARU🌚</H2><HR/>')
+    return HttpResponse('<h2>😁 NAMASTE GURUGARU🌚</H2><HR/>')
